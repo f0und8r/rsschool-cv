@@ -1,5 +1,5 @@
 # Stanislav Malashenkov
-<p><image src="/c:\Rolling Scopes\green card123.jpg" width="130" height="130" alt="Мое фото">
+<p><image src="/c:\Rolling Scopes\rsschool-cv\Myfoto.jpg" width="130" height="130" alt="Мое фото">
 
 ## Contacts for communication
 * Address: Belarus,Gomel city,Vladimirova st.
