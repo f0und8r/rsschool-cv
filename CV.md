@@ -1,5 +1,5 @@
 # Stanislav Malashenkov
-<p><image src="/c:\Rolling Scopes\rsschool-cv\Myfoto.jpg" width="130" height="130" alt="Мое фото">
+<p><image src="/https://github.com/f0und8r/rsschool-cv/blob/gh-pages/Myfoto.jpg " width="130" height="130" alt="Мое фото">
 
 ## Contacts for communication
 * Address: Belarus,Gomel city,Vladimirova st.
