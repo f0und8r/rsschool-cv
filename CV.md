@@ -1,4 +1,4 @@
-# [rsschool-cv](https://f0und8r.github.io/rsschool-cv/)
+# [rsschool-cv](https://f0und8r.github.io/rsschool-cv/CV)
 # Stanislav Malashenkov
 ![Мое фото](https://github.com/f0und8r/rsschool-cv/raw/gh-pages/Myfoto.jpg)
 
