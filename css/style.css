@@ -1,3 +1,41 @@
-
-
-
+.div {
+    color: darkslateblue;
+    font-size: x-large;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    min-width: 1000px; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.image {
+    width: 200px;
+    height: 200px;
+    background: url("https://pbs.twimg.com/profile_images/729441886130339842/ML_8Y8N4_400x400.jpg");
+    background-size: cover;
+}
+.CV {
+    color: black;
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.nav-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.nav-item {
+    display: inline;
+}
+html {
+    scroll-behavior: smooth;
+  }
+.nav-link {
+    padding: 0 3px;
+    line-height: 1px;
+    text-decoration: none;
+    color: brown ;
+    transition: color 0.5s;
+}
+.b {
+    background-color: darkgrey;
+  }
