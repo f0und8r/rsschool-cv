@@ -1,6 +1,6 @@
 # [rsschool-cv](https://f0und8r.github.io/rsschool-cv/cv)
 # Stanislav Malashenkov
-![Мое фото](https://github.com/f0und8r/rsschool-cv/blob/rsschool-cv-html/assets/img/Myfoto.jpg)
+![Мое фото](https://github.com/f0und8r/rsschool-cv/blob/gh-pages/assets/img/Myfoto.jpg)
 
 ## Contacts for communication
 * Address: Belarus,Gomel city,Vladimirova st.
