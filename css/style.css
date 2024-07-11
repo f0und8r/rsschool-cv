@@ -1,10 +1,10 @@
+.b {
+    margin: 0 auto;
+    max-block-size: none;
+}
 .div {
     color: darkslateblue;
     font-size: x-large;
-    position: absolute;
-    left: 50%;
-    transform: translateX(-50%);
-    min-width: 1000px; 
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .image {
